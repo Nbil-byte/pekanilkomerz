@@ -27,7 +27,7 @@ document.addEventListener('DOMContentLoaded', function() {
   const images1 = ["b.png", "egypt_page-0001.jpg"]; // Daftar nama file gambar latar belakang
   const images3 = ["c.png", "egypt_page-0002.jpg"];
   const images2 = ["a.png", "egypt_page-0003.jpg"];
-  const images4 = ["d.png", "f_page-0001"];
+  const images4 = ["d.png", "f_page-0001.jpg"];
   const coolors = ["#fff","#333"]
 
   let currentIndex = 1;
